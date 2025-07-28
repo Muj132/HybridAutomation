@@ -1,0 +1,131 @@
+2025-07-24 15:48:18 INFO  TC001_AccountRegistrationTest:15 - *****Starting TC001_AccountRegistrationTest *****
+2025-07-24 15:48:18 ERROR TC001_AccountRegistrationTest:44 - Test Failed...
+2025-07-24 15:52:34 INFO  TC001_AccountRegistrationTest:15 - *****Starting TC001_AccountRegistrationTest *****
+2025-07-24 15:52:35 INFO  TC001_AccountRegistrationTest:20 - Clicked on MyAccount Link
+2025-07-24 15:52:35 INFO  TC001_AccountRegistrationTest:23 - Clicked on Register Link
+2025-07-24 15:52:35 INFO  TC001_AccountRegistrationTest:26 - Providing customer details...
+2025-07-24 15:52:37 INFO  TC001_AccountRegistrationTest:39 - Validating expected message...
+2025-07-24 15:52:37 INFO  TC001_AccountRegistrationTest:48 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-24 15:59:46 INFO  TC001_AccountRegistrationTest:15 - *****Starting TC001_AccountRegistrationTest *****
+2025-07-24 15:59:56 ERROR TC001_AccountRegistrationTest:44 - Test Failed...
+2025-07-24 16:00:00 INFO  TC002_LoginTest:13 - ***** Starting TC_002_LoginTest *****
+2025-07-24 16:00:15 INFO  TC001_AccountRegistrationTest:15 - *****Starting TC001_AccountRegistrationTest *****
+2025-07-24 16:00:16 INFO  TC001_AccountRegistrationTest:20 - Clicked on MyAccount Link
+2025-07-24 16:00:16 INFO  TC001_AccountRegistrationTest:23 - Clicked on Register Link
+2025-07-24 16:00:16 INFO  TC001_AccountRegistrationTest:26 - Providing customer details...
+2025-07-24 16:00:18 INFO  TC001_AccountRegistrationTest:39 - Validating expected message...
+2025-07-24 16:00:18 INFO  TC001_AccountRegistrationTest:48 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-24 16:00:23 INFO  TC002_LoginTest:13 - ***** Starting TC_002_LoginTest *****
+2025-07-24 16:00:24 INFO  TC002_LoginTest:18 - clicked on my account link on the home page..
+2025-07-24 16:00:24 INFO  TC002_LoginTest:20 - clicked on login link under my account..
+2025-07-24 16:00:24 INFO  TC002_LoginTest:23 - Entering valid email and password..
+2025-07-24 16:00:27 INFO  TC002_LoginTest:27 - clicked on login button..
+2025-07-24 16:00:27 INFO  TC002_LoginTest:35 - ***** Finished TC_002_LoginTest *****
+2025-07-24 16:11:39 INFO  TC001_AccountRegistrationTest:15 - *****Starting TC001_AccountRegistrationTest *****
+2025-07-24 16:11:49 ERROR TC001_AccountRegistrationTest:44 - Test Failed...
+2025-07-24 16:11:52 INFO  TC002_LoginTest:13 - ***** Starting TC_002_LoginTest *****
+2025-07-24 16:12:08 INFO  TC001_AccountRegistrationTest:15 - *****Starting TC001_AccountRegistrationTest *****
+2025-07-24 16:12:08 INFO  TC001_AccountRegistrationTest:20 - Clicked on MyAccount Link
+2025-07-24 16:12:09 INFO  TC001_AccountRegistrationTest:23 - Clicked on Register Link
+2025-07-24 16:12:09 INFO  TC001_AccountRegistrationTest:26 - Providing customer details...
+2025-07-24 16:12:11 INFO  TC001_AccountRegistrationTest:39 - Validating expected message...
+2025-07-24 16:12:11 INFO  TC001_AccountRegistrationTest:48 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-24 16:12:16 INFO  TC002_LoginTest:13 - ***** Starting TC_002_LoginTest *****
+2025-07-24 16:12:16 INFO  TC002_LoginTest:18 - clicked on my account link on the home page..
+2025-07-24 16:12:17 INFO  TC002_LoginTest:20 - clicked on login link under my account..
+2025-07-24 16:12:17 INFO  TC002_LoginTest:23 - Entering valid email and password..
+2025-07-24 16:12:18 INFO  TC002_LoginTest:27 - clicked on login button..
+2025-07-24 16:12:18 INFO  TC002_LoginTest:35 - ***** Finished TC_002_LoginTest *****
+2025-07-24 16:18:54 INFO  TC001_AccountRegistrationTest:15 - *****Starting TC001_AccountRegistrationTest *****
+2025-07-24 16:19:04 ERROR TC001_AccountRegistrationTest:44 - Test Failed...
+2025-07-24 16:19:08 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2025-07-24 16:19:22 INFO  TC001_AccountRegistrationTest:15 - *****Starting TC001_AccountRegistrationTest *****
+2025-07-24 16:19:23 INFO  TC001_AccountRegistrationTest:20 - Clicked on MyAccount Link
+2025-07-24 16:19:23 INFO  TC001_AccountRegistrationTest:23 - Clicked on Register Link
+2025-07-24 16:19:23 INFO  TC001_AccountRegistrationTest:26 - Providing customer details...
+2025-07-24 16:19:25 INFO  TC001_AccountRegistrationTest:39 - Validating expected message...
+2025-07-24 16:19:25 INFO  TC001_AccountRegistrationTest:48 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-24 16:19:31 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2025-07-24 16:19:31 INFO  TC_002_LoginTest:24 - clicked on myaccount link on the home page..
+2025-07-24 16:19:32 INFO  TC_002_LoginTest:26 - clicked on login link under myaccount..
+2025-07-24 16:19:32 INFO  TC_002_LoginTest:30 - Entering valid email and password..
+2025-07-24 16:19:33 INFO  TC_002_LoginTest:34 - clicked on login button..
+2025-07-24 16:19:33 INFO  TC_002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2025-07-24 16:34:23 INFO  TC001_AccountRegistrationTest:17 - *****Starting TC001_AccountRegistrationTest *****
+2025-07-24 16:34:33 ERROR TC001_AccountRegistrationTest:51 - Test Failed: element not interactable
+  (Session info: chrome=138.0.7204.157)
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [7962ff161d27cb9459f83f3d6f76b908, clickElement {id=f.406DE8F0F449FD144F6C1A31CBBFDA0C.d.43602BFDD044193BEE1DD6B2ABABD69B.e.70}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.157, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:44851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.19.0.3:4444/sessio..., se:cdpVersion: 138.0.7204.157, se:containerName: f30c541ccd39, se:deleteSessionOnUi: true, se:downloadsEnabled: true, se:noVncPort: 7900, se:vnc: ws://172.19.0.3:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.19.0.3:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: chrome on linux (7962ff161d27cb9459f83f3d6f76b908)] -> xpath: //span[normalize-space()='My Account']]
+Session ID: 7962ff161d27cb9459f83f3d6f76b908
+2025-07-24 16:34:36 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2025-07-24 16:34:51 INFO  TC001_AccountRegistrationTest:17 - *****Starting TC001_AccountRegistrationTest *****
+2025-07-24 16:34:51 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link
+2025-07-24 16:34:52 INFO  TC001_AccountRegistrationTest:25 - Clicked on Register Link
+2025-07-24 16:34:52 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-07-24 16:34:53 INFO  TC001_AccountRegistrationTest:41 - Validating expected message...
+2025-07-24 16:34:53 INFO  TC001_AccountRegistrationTest:47 - Actual confirmation message: Your Account Has Been Created!
+2025-07-24 16:34:53 INFO  TC001_AccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-24 16:34:58 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2025-07-24 16:34:58 INFO  TC_002_LoginTest:24 - clicked on myaccount link on the home page..
+2025-07-24 16:34:59 INFO  TC_002_LoginTest:26 - clicked on login link under myaccount..
+2025-07-24 16:34:59 INFO  TC_002_LoginTest:30 - Entering valid email and password..
+2025-07-24 16:35:00 INFO  TC_002_LoginTest:34 - clicked on login button..
+2025-07-24 16:35:00 INFO  TC_002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2025-07-24 16:39:42 INFO  TC001_AccountRegistrationTest:17 - *****Starting TC001_AccountRegistrationTest *****
+2025-07-24 16:39:52 ERROR TC001_AccountRegistrationTest:51 - Test Failed: element not interactable
+  (Session info: chrome=138.0.7204.157)
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [75eac7d6370cb93dac264a6996c777ff, clickElement {id=f.218ACB325B230420978F060FAD26FD6B.d.57B12383118ADFE8D352136B6340B473.e.71}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.157, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:41811}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.19.0.3:4444/sessio..., se:cdpVersion: 138.0.7204.157, se:containerName: f30c541ccd39, se:deleteSessionOnUi: true, se:downloadsEnabled: true, se:noVncPort: 7900, se:vnc: ws://172.19.0.3:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.19.0.3:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: chrome on linux (75eac7d6370cb93dac264a6996c777ff)] -> xpath: //span[normalize-space()='My Account']]
+Session ID: 75eac7d6370cb93dac264a6996c777ff
+2025-07-24 16:39:55 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2025-07-24 16:40:10 INFO  TC001_AccountRegistrationTest:17 - *****Starting TC001_AccountRegistrationTest *****
+2025-07-24 16:40:10 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link
+2025-07-24 16:40:11 INFO  TC001_AccountRegistrationTest:25 - Clicked on Register Link
+2025-07-24 16:40:11 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-07-24 16:40:12 INFO  TC001_AccountRegistrationTest:41 - Validating expected message...
+2025-07-24 16:40:12 ERROR TC001_AccountRegistrationTest:51 - Test Failed: Given css selector expression "h1:contains('Account Has Been Created')" is invalid: InvalidSelectorError: Document.querySelector: 'h1:contains('Account Has Been Created')' is not a valid selector: "h1:contains('Account Has Been Created')"
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [752106b9-6bda-40b6-b538-03b21e931642, findElement {value=h1:contains('Account Has Been Created'), using=css selector}]
+Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 140.0.4, container:hostname: 75b9aee9ff88, moz:accessibilityChecks: false, moz:buildID: 20250707120347, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 6.6.87.2-microsoft-standard..., moz:processID: 2004, moz:profile: /tmp/rust_mozprofileVrhEwh, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdpEnabled: false, se:containerName: 75b9aee9ff88, se:deleteSessionOnUi: true, se:downloadsEnabled: true, se:noVncPort: 7900, se:vnc: ws://172.19.0.4:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.19.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
+Session ID: 752106b9-6bda-40b6-b538-03b21e931642
+2025-07-24 16:40:17 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2025-07-24 16:40:17 INFO  TC_002_LoginTest:24 - clicked on myaccount link on the home page..
+2025-07-24 16:40:18 INFO  TC_002_LoginTest:26 - clicked on login link under myaccount..
+2025-07-24 16:40:18 INFO  TC_002_LoginTest:30 - Entering valid email and password..
+2025-07-24 16:40:19 INFO  TC_002_LoginTest:34 - clicked on login button..
+2025-07-24 16:40:19 INFO  TC_002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2025-07-24 16:43:34 INFO  TC001_AccountRegistrationTest:17 - *****Starting TC001_AccountRegistrationTest *****
+2025-07-24 16:43:44 ERROR TC001_AccountRegistrationTest:51 - Test Failed: element not interactable
+  (Session info: chrome=138.0.7204.157)
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [e30f480692c27b32cd967d37819434f8, clickElement {id=f.A47B2AEB029A897BD801D7B4843F3621.d.5081F505317153D8967A0A80C69A0CF7.e.70}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.157, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:38845}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.19.0.3:4444/sessio..., se:cdpVersion: 138.0.7204.157, se:containerName: f30c541ccd39, se:deleteSessionOnUi: true, se:downloadsEnabled: true, se:noVncPort: 7900, se:vnc: ws://172.19.0.3:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.19.0.3:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: chrome on linux (e30f480692c27b32cd967d37819434f8)] -> xpath: //span[normalize-space()='My Account']]
+Session ID: e30f480692c27b32cd967d37819434f8
+2025-07-24 16:43:48 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2025-07-24 16:44:02 INFO  TC001_AccountRegistrationTest:17 - *****Starting TC001_AccountRegistrationTest *****
+2025-07-24 16:44:03 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link
+2025-07-24 16:44:03 INFO  TC001_AccountRegistrationTest:25 - Clicked on Register Link
+2025-07-24 16:44:03 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-07-24 16:44:05 INFO  TC001_AccountRegistrationTest:41 - Validating expected message...
+2025-07-24 16:44:05 INFO  TC001_AccountRegistrationTest:47 - Actual confirmation message: Your Account Has Been Created!
+2025-07-24 16:44:05 INFO  TC001_AccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-24 16:44:10 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2025-07-24 16:44:10 INFO  TC_002_LoginTest:24 - clicked on myaccount link on the home page..
+2025-07-24 16:44:10 INFO  TC_002_LoginTest:26 - clicked on login link under myaccount..
+2025-07-24 16:44:10 INFO  TC_002_LoginTest:30 - Entering valid email and password..
+2025-07-24 16:44:12 INFO  TC_002_LoginTest:34 - clicked on login button..
+2025-07-24 16:44:12 INFO  TC_002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
